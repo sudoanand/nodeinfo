@@ -1,0 +1,9 @@
+{
+  "name": "nodeinfo",
+  "version": "1.0.0",
+  "description": "Node HTTP server that returns the running Node version",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
